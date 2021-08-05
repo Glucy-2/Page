@@ -1,0 +1,28 @@
+# 关注的up(WIP)
+## 科技区
+- [极客湾Geekwan](https://space.bilibili.com/25876945)
+    - 评测，折腾
+- [FUN科技](https://space.bilibili.com/9321359)
+    - 评测
+- [硬件茶谈](https://space.bilibili.com/14871346)
+    - 科普，评测，资讯，折腾
+- [老弟一号](https://space.bilibili.com/178429408)
+    - 科普，评测，拆解，折腾
+- [阿狸才不是受](https://space.bilibili.com/453972)
+    - 评测，科普，优化
+- [小白测评](https://space.bilibili.com/8969156)
+    - 评测
+- [二斤啦啦啦啦](https://space.bilibili.com/133901828)
+    - 评测，传闻
+- [中正评测](https://space.bilibili.com/178047796)
+    - 评测
+- [黑冰科技](https://space.bilibili.com/470672374)
+    - 科普，评测，资讯
+- [VirtualMOD](https://space.bilibili.com/10909041)
+    - 评测
+- [蒸気火鸡](https://space.bilibili.com/39180492)
+    - 资讯
+- [太平洋电脑网](https://space.bilibili.com/26987075)
+    - 资讯
+- [超级氪](https://space.bilibili.com/330246090)
+    - 资讯
