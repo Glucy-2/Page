@@ -6,6 +6,8 @@
     - 评测
 - [硬件茶谈](https://space.bilibili.com/14871346)
     - 科普，评测，资讯，折腾
+- [51972](https://space.bilibili.com/64391344)
+    - 评测
 - [老弟一号](https://space.bilibili.com/178429408)
     - 科普，评测，拆解，折腾
 - [阿狸才不是受](https://space.bilibili.com/453972)
