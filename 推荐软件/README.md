@@ -11,6 +11,8 @@
 - [火绒安全](https://www.huorong.cn/person5.html)
     - 杀毒
     - 弹窗拦截
+- [向日葵](https://sunlogin.oray.com/download/)
+    - 远程控制 
 - [7zip](https://sparanoid.com/lab/7z/)
     - 压缩解压（比较专业但是界面有点丑）
 - [BandiZip](https://www.bandisoft.com/bandizip/)
